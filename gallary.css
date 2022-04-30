@@ -62,4 +62,12 @@ img{
   .gallary-box {
     flex-direction: column;
   }
+
+  .gallary-filter {
+    width: auto;
+  }
+
+  .gallary-items {
+    justify-content: center;
+  }
 }
