@@ -57,3 +57,9 @@ img{
 .gallary-items-wrapper{
     width: calc(100% - 15% - 10px);
 }
+
+@media only screen and (max-width: 600px) {
+  .gallary-box {
+    flex-direction: column;
+  }
+}
